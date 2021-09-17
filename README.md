@@ -1,13 +1,16 @@
 **Test Example**
 Example folder and having two modules to test two different files, 
-1.example_yaml.py : To read Yaml configurations file and flatten
+**1.example_yaml.py :** 
+To read Yaml configurations file and flatten
 input: .yaml file path
 output: flatten dictionary
-2.example_cfg.py : To read .cfg configurations file and flatten
+**2.example_cfg.py :** 
+To read .cfg configurations file and flatten
 input: .cfg file path
 output: flatten dictionary
 
 **To test these examples you need to perform the following steps:**
+
 1. Download the zip file of project present at below repository,
 [https://github.com/aishthombale/config_to_flatdict.git]
    
