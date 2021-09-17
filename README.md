@@ -27,4 +27,4 @@ in the project downloaded in step 1 at below path.
 `config_to_flatdict/dist/file_to_flatdict-0.0.1-py3-none-any.whl`
 
 6.Run each of the examples and check the output.
-You can use files present in `config` folder
+You can use files present in `config` folder as input to the `example_yaml.py` and `example_cfg.py`
