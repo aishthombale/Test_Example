@@ -1,4 +1,4 @@
-###Test Example
+**Test Example**
 Example folder and having two modules to test two different files, 
 1.example_yaml.py : To read Yaml configurations file and flatten
 input: .yaml file path
@@ -7,10 +7,10 @@ output: flatten dictionary
 input: .cfg file path
 output: flatten dictionary
 
-###To test these examples you need to perform the following steps:
+**To test these examples you need to perform the following steps:**
 1. Download the zip file of project present at below repository,
-#https://github.com/aishthombale/config_to_flatdict.git
-
+[https://github.com/aishthombale/config_to_flatdict.git]
+   
 2.Create new project in Python IDE with name as "example".
 
 3.Create a virtual environment in "example" folder using below command.
@@ -24,3 +24,5 @@ in the project downloaded in step 1 at below path.
 #config_to_flatdict/dist/file_to_flatdict-0.0.1-py3-none-any.whl
 
 6.Run each of the examples and check the output.
+
+[https://github.com/aishthombale/config_to_flatdict.git]
